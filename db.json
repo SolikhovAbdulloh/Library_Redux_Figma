@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "category": "O'zbek kitoblari",
+      "books": [
+        {
+          "title": "O'tkan Kunlar",
+          "author": "Abdulla Qodiriy",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXFMvJ0Ahccfxs5Iwi_gTu4yxS2yEEmw5sbQ&s"
+        },
+        {
+          "title": "Alpomish",
+          "author": "Xudoyberdi To'xtaboyev",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidN1rvqRfEsjGo3itj2lCrx3I_iV1Rr5gE3WdG3ZmdA&s"
+        },
+        {
+          "title": "Jamila",
+          "author": "Chinghiz Aytmatov",
+          "image": "https://imgv2-2-f.scribdassets.com/img/document/700098635/original/bc84aa4b9c/1?v=1"
+        },
+        {
+          "title": "Bahor qaytmaydi",
+          "author": "O'tkir Hoshimov",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-uhlIOh3KMMQftDTGc8psZTn59F-rJQMSa-aH9TZY_w&s"
+        }
+      ]
+    },
+    {
+      "category": "Jahon kitoblari",
+      "books": [
+        {
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStb8d2tdDS9zthLAfbxg82RZ8vZO9ySV6AG7mg92KcOA&s"
+        },
+        {
+          "title": "1984",
+          "author": "George Orwell",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadkkvZCAQ-ihDDo-8Y4aFrXaFYTb2DAIfzhmKuRDtXQ&s"
+        },
+        {
+          "title": "The Catcher in the Rye",
+          "author": "J.D. Salinger",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmiDqPnVAlqMyTExIOW5DdpDNpux2jVTosHgTHvz4Wg&s"
+        },
+        {
+          "title": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSYqO-Raym9NW1pbTstcA9_I36lLqGAbsiOmxKdPyBpQ&s"
+        }
+      ]
+    },
+    {
+      "category": "Ertak kitoblari",
+      "books": [
+        {
+          "title": "Aladdin and the Magic Lamp",
+          "author": "Anonymous",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqnPPz10JZqZOMLdegsIiGF9VQ5w9C5GESQ&s"
+        },
+        {
+          "title": "Cinderella",
+          "author": "Charles Perrault",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZhuZG-diFcngScwP6gEMT59xv3o1bWwbH7w&s"
+        },
+        {
+          "title": "The Little Red Riding Hood",
+          "author": "Charles Perrault",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6hTyi8cpNFlhpqbiIuAuh0wRfwJE-DK1db24c0Jzvg&s"
+        },
+        {
+          "title": "The Ugly Duckling",
+          "author": "Hans Christian Andersen",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGP7zmCTDU4PRavSdmYQB0687w7Ck3rF8qo2RnA5LGsg&s"
+        }
+      ]
+    }
+  ]
+}
