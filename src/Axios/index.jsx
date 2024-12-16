@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { request } from "../server";
 
-function Useaxios({ url, method = "GET", params, body }){
+function Useaxios({ url, method = "GET" }){
 
   const [data, Setdata] = useState([]);
   const [error, Seterror] = useState(null);
@@ -10,8 +10,7 @@ function Useaxios({ url, method = "GET", params, body }){
     request({
       url,
       method,
-      data: body,
-      params,
+      
       headers: {
         "Content-Type": "application/json",
       },
